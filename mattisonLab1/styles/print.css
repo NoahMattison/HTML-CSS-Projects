@@ -1,0 +1,21 @@
+/* Noah Mattison */
+section h3, section video, section audio {
+    display: none;
+}
+nav {
+    display: none;
+}
+body {
+    font-family: serif;
+    border: none;
+    box-shadow: none;
+    margin: 0.5in;
+}
+section, aside {
+    float: none;
+    width: 7in;
+}
+h1, h2, h3 {
+    font-family: sans-serif;
+}
+

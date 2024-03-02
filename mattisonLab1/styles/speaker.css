@@ -1,0 +1,39 @@
+/* the additional styles for the speaker pages */
+article {
+	width: 535px;
+	margin-left: 20px;
+	padding-right: 25px;
+	float: right;
+}
+article h1 {
+	font-size: 170%;
+	margin-bottom: 0.35em;
+
+}
+figure {
+	float: left;
+	margin-right: 1.5em;
+}
+figcaption {
+	display: block;
+	font-weight: bold;
+	padding-top: .25em;
+	margin-bottom: 1em;
+	border-bottom: 1px solid black;
+}
+
+/* the styles for the sidebar */
+aside {
+	width: 350px;
+	float: right;
+}
+
+aside ul { 
+	margin-top: 0;
+	margin-bottom: 1.5em; 
+}
+aside li {
+	font-size: 95%;
+	padding-bottom: 0.35em;
+}
+
